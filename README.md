@@ -68,7 +68,7 @@ internship/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sleep-apnea-detection.git
+git clone https://github.com/itssDurgesh/AI-In-Healthcare-Internship-SRIP-2026-IITG.git
 cd sleep-apnea-detection
 pip install -r requirements.txt
 ```
